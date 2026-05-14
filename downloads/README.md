@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [GooseRelayVPN-client-v1.6.0-android-arm64.tar](./GooseRelayVPN-client-v1.6.0-android-arm64.tar)
 - [GooseRelayVPN-client-v1.6.0-windows-amd64](./GooseRelayVPN-client-v1.6.0-windows-amd64)
 - [GooseRelayVPN-server-v1.6.0-linux-amd64.tar](./GooseRelayVPN-server-v1.6.0-linux-amd64.tar)
 - [mhrv-rs-android-armeabi-v7a-v1.9.19](./mhrv-rs-android-armeabi-v7a-v1.9.19)
