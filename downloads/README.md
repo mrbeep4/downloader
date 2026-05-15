@@ -6,6 +6,7 @@
 - [mhrv-rs-android-armeabi-v7a-v1.9.19](./mhrv-rs-android-armeabi-v7a-v1.9.19)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [netlify-installer-v2.0.0](./netlify-installer-v2.0.0)
+- [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 - [vless-config-creator-v2.0.0](./vless-config-creator-v2.0.0)
 
 ---
